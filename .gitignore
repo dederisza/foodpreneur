@@ -81,3 +81,10 @@ memory/test_credentials.md
 # Mobile development
 android-sdk/foodpreneur/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node
 foodpreneur/node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node
+.env
+.env.*
+*.env
+credentials.json
+*.key
+.credentials
+foodpreneur/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node
