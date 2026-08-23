@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787394070965,
+      "tag": "0000_outgoing_mongu",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787397964698,
+      "tag": "0001_open_dust",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1787402523273,
+      "tag": "0002_rare_logan",
+      "breakpoints": true
+    }
+  ]
+}
